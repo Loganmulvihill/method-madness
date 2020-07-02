@@ -18,3 +18,10 @@ function addGreeting(string) {
 }
 
 console.log(greetingArray);
+
+
+//Square Root Method Example
+var numberArray = [16, 9, 25];
+var squareRootArray = numberArray.map(Math.sqrt);
+
+console.log(squareRootArray);
