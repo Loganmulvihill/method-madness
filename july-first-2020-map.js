@@ -1,3 +1,5 @@
+//All methods are tested live at https://repl.it/ using JavaScript. 
+
 // Number Array plus ten example.
 var numbersArray = [55, 25, 75, 85];
 var mapArray = numbersArray.map(plusTen);
